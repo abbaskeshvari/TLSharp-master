@@ -197,6 +197,11 @@ namespace TeleSharp.Generator
                 }
             }
         }
+
+        public static string Test()
+        {
+            return "a";
+        }
         public static string FormatName(string input)
         {
             if (string.IsNullOrEmpty(input))
