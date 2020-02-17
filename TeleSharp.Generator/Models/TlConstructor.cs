@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 
 namespace TeleSharp.Generator.Models
-{
+{//test   
     internal class TlConstructor
     {
         [JsonProperty("id")]
