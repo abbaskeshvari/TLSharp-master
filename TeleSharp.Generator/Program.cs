@@ -200,8 +200,9 @@ namespace TeleSharp.Generator
 
         public static string Test()
         {
-            return "a";
+            return "b";
         }
+
         public static string FormatName(string input)
         {
             if (string.IsNullOrEmpty(input))
